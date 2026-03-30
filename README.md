@@ -34,7 +34,7 @@ Pasos
 
 Clonar el repositorio
 
-bash   git clone https://github.com/TU_USUARIO/proyecto-ssis-etl-masive_ingest-exceltoBD.git
+bash   git clone https://github.com/jesusdiazitla-lang/proyecto-ssis-etl-masive_ingest-exceltoBD.git
 
 Abrir la solución en Visual Studio
 
